@@ -1,4 +1,3 @@
-#![feature(vendored)]
 extern crate cc;
 #[cfg(feature = "vendored")]
 extern crate openssl_src;
